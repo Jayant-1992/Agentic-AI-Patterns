@@ -1,0 +1,17 @@
+
+AI/ML Engineer (Generative AI)
+
+Required Skills:
+Python, Machine Learning, Deep Learning, NLP, LangChain,
+LLMs, Vector Databases, RAG pipelines, Docker, AWS
+
+Responsibilities:
+Develop Generative AI applications using LLMs.
+Build RAG based knowledge assistants.
+Deploy ML models in production environments.
+
+Experience:
+3-6 years in AI/ML engineering.
+
+Education:
+Bachelor or Master in Computer Science or AI related field.
